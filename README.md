@@ -9,15 +9,16 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Daniel Alves Oliveira
+- Matricula: 902466
+- Proposta de projeto escolhida: Calendario e quantidade de vistorias
+- Breve descrição sobre seu projeto: Site de vistoria veicular documental
 
 **Print da tela com a implementação**
 
 << Coloque aqui uma breve explicação da implementação feita nessa etapa>>
+<img width="1382" height="768" alt="image" src="https://github.com/user-attachments/assets/7b9154ea-93c6-49f3-8216-7b2a4edd8264" />
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+<img width="1355" height="890" alt="image" src="https://github.com/user-attachments/assets/e2596742-61ac-4687-887c-95d99fa125f7" />
+
