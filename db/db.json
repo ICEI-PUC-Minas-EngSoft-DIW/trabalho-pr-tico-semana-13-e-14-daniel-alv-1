@@ -2,34 +2,37 @@
   "clientes": [
     {
       "id": 1,
-      "nome": "João Silva",
+      "nome": "Cliente 1",
       "cpf": "123.456.789-00",
       "email": "joao@email.com",
       "telefone": "3199999-0001",
-      "endereco": "Rua A, 123 - Belo Horizonte - MG",
-      "observacoes": "Cliente VIP",
+      "endereco": "Belo Horizonte - MG",
+      "observacoes": "Veículo vistoriado com sucesso.",
+      "status": "Veículo vistoriado com sucesso.",
       "destaque": true,
       "imagem": "assets/img/veiculo1.jpg"
     },
     {
       "id": 2,
-      "nome": "Maria Oliveira",
+      "nome": "Cliente 2",
       "cpf": "987.654.321-00",
       "email": "maria@email.com",
       "telefone": "3199999-0002",
-      "endereco": "Av. B, 456 - Contagem - MG",
-      "observacoes": "Prefere contato por e-mail",
+      "endereco": "Contagem - MG",
+      "observacoes": "Vistoria em andamento.",
+      "status": "Vistoria em andamento.",
       "destaque": false,
       "imagem": "assets/img/veiculo2.jpg"
     },
     {
       "id": 3,
-      "nome": "Carlos Souza",
+      "nome": "Cliente 3",
       "cpf": "456.789.123-00",
       "email": "carlos@email.com",
       "telefone": "3199999-0003",
-      "endereco": "Praça C, 789 - Nova Lima - MG",
-      "observacoes": "Agendamento recorrente",
+      "endereco": "Nova Lima - MG",
+      "observacoes": "Aguardando envio de documentos.",
+      "status": "Aguardando envio de documentos.",
       "destaque": true,
       "imagem": "assets/img/veiculo3.jpg"
     }
