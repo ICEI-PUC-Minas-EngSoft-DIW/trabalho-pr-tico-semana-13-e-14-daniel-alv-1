@@ -1,18 +1,37 @@
 {
-  "usuarios": [
+  "clientes": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": 1,
+      "nome": "João Silva",
+      "cpf": "123.456.789-00",
+      "email": "joao@email.com",
+      "telefone": "3199999-0001",
+      "endereco": "Rua A, 123 - Belo Horizonte - MG",
+      "observacoes": "Cliente VIP",
+      "destaque": true,
+      "imagem": "assets/img/veiculo1.jpg"
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": 2,
+      "nome": "Maria Oliveira",
+      "cpf": "987.654.321-00",
+      "email": "maria@email.com",
+      "telefone": "3199999-0002",
+      "endereco": "Av. B, 456 - Contagem - MG",
+      "observacoes": "Prefere contato por e-mail",
+      "destaque": false,
+      "imagem": "assets/img/veiculo2.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Souza",
+      "cpf": "456.789.123-00",
+      "email": "carlos@email.com",
+      "telefone": "3199999-0003",
+      "endereco": "Praça C, 789 - Nova Lima - MG",
+      "observacoes": "Agendamento recorrente",
+      "destaque": true,
+      "imagem": "assets/img/veiculo3.jpg"
     }
   ]
 }
